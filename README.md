@@ -21,6 +21,7 @@ Improve speed with NumPy operations
 Prepare for data science interviews
 Boost confidence working with numerical data
 Practice via real notebook examples
+
 📂 Repository Contents
 umpy-exercises/
 │
