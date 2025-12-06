@@ -31,7 +31,7 @@ umpy-exercises/
 
 🚀 How to Use
 
-1️⃣ Clone the repository
+# 1️⃣ Clone the repository
 git clone https://github.com/Beingnav/Numpy-Exercises.git
 
 
@@ -39,13 +39,13 @@ git clone https://github.com/Beingnav/Numpy-Exercises.git
 ### 2️⃣ If you're using Jupyter Notebook: use this commond on your Commond chrome / Terminal for macbook
                     jupyter notebook
 
-Or VS Code:
-# Open the folder
-# Install Python & Jupyter extensions
-#Run the notebook cells
+# Or VS Code:
+Open the folder
+Install Python & Jupyter extensions
+Run the notebook cells
 
 
-🧰 Requirements
+# 🧰 Requirements
 
 Make sure you have:
 
