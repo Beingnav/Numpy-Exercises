@@ -24,6 +24,7 @@ Practice via real notebook examples
 
 📂 Repository Contents
 umpy-exercises/
+
 │
 ├── 03-NumPy-Exercises.ipynb # Main notebook with all exercises & solutions
 └── README.md # Project documentation
@@ -39,11 +40,8 @@ git clone https://github.com/Beingnav/Numpy-Exercises.git
                     jupyter notebook
 
 Or VS Code:
-
 # Open the folder
-
 # Install Python & Jupyter extensions
-
 #Run the notebook cells
 
 
