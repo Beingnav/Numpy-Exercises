@@ -41,7 +41,9 @@ git clone https://github.com/Beingnav/Numpy-Exercises.git
 
 # Or VS Code:
 Open the folder
+
 Install Python & Jupyter extensions
+
 Run the notebook cells
 
 
