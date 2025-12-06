@@ -29,6 +29,7 @@ umpy-exercises/
 └── README.md # Project documentation
 
 🚀 How to Use
+
 1️⃣ Clone the repository
 git clone https://github.com/Beingnav/Numpy-Exercises.git
 
